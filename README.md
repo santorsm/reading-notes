@@ -9,3 +9,5 @@
 ### My name is Matthew. I enjoy fishing, cooking, and reading. Here's a link to my GitHub page ---> [Matt's github](https://github.com/santorsm)
 
 ### Here are my notes on [Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/)
+
+__Markdown__ is a lightweight and easy-to-use syntax for styling all forms of writing on GitHub & nother platforms
