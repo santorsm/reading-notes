@@ -12,7 +12,7 @@
 
 __Markdown__ - a way to style text on the web
 * syntax for styling all forms of writing on GitHub, text files & other platforms
-* We control the display of the document 
-* Includes formatting words as bold or italic, adding images, and creating lists
-* Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in,
+* Includes formatting words as bold or italic, adding images, creating lists, etc
+* Mostly just regular text with a few non-alphabetic characters thrown in
+* GitHub has its own flavor of Markdown
 
