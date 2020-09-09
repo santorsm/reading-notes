@@ -1,7 +1,7 @@
 # reading-notes
 
 
-## Growth mindset centers on my strong belief in my capacity to learn & grow 
+## Growth mindset - my strong belief in my capacity to learn & grow 
 - Focuses on processes *not* outcomes
 - Embraces challenges
 - **Learns** from criticism
