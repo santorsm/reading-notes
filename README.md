@@ -8,4 +8,4 @@
 
 :rocket:
 
-### My name is Matthew. I enjoy reading, cooking, and fishing. Here's a link to my GitHub page ---> [Matt's github](https://github.com/santorsm)
+### My name is Matthew. I enjoy fishing, cooking, and reading. Here's a link to my GitHub page ---> [Matt's github](https://github.com/santorsm)
