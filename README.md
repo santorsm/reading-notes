@@ -2,7 +2,7 @@
 
 
 ## Growth mindset centers on my strong belief in my capacity to learn & grow 
-- Focuses on processes *not* outcomes
+- Focuses on processes *not* ~outcomes~
 - Embraces challenges
 - **Learns** from criticism
 
