@@ -1,6 +1,6 @@
 # My command line "cheat-sheet" 
 
-## Terminal
+## Terminal CMD Line
 
 ### Line 1: 
 - Line 1: prompt 'user@bash' command 'ls' commmand line argument ( -l /home/ryan ) **space separated** 
@@ -29,7 +29,12 @@
      - Following this is the file size.
      - Next up is the file modification time.
      - Finally we have the actual name of the file or directory.
-       - **/etc** :not to list our current directory but instead to list that directories contents
+       - **/etc** : Stores config files for the system
+         - not to list our current directory but instead to list that directories contents
+ - **cd [location]** : Change Directory - cd without any arguments will always take back to home directory
+ - **/var/log** - Stores log files for various system programs
+ - **/bin** - The location of several commonly used programs
+ - **usr/bin** - Another location for programs on the system
 
 ### Paths
 - root directory - very top of hierarchy - denoted by a single slash ( / )
@@ -38,5 +43,8 @@
 - **relative** - specify a location (file or directory) in relation to where we currently are in the system
   - not begin with slash
 - ~ (tilde) - shortcut for your home directory
-  - ome directory is /home/ryan
+  -  /home/ryan/Documents or ~/Documents
+- . (dot) - This is a reference to your current directory
+- .. (dotdot)- This is a reference to the parent directory. use several times in a path to go up the hierarchy
+
 
