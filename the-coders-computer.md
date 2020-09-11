@@ -16,6 +16,9 @@
 - traverse this history using the up and down arrow keys
 
 ### Commands
- - __pwd__
+ - __pwd__ :Print Working Directory - your current or present working directory (where are we)
+ - __ls__ : List - show what's there - by itself - plain listing of our current location
+   - __ls__ __[options]__ __[location]__ : square brackets ([]) = optional
+   - 'ls -a'
 
 
