@@ -13,5 +13,5 @@
 
 ## Table of Contents
 
-- [Class 1: Mastering Markdown](class_01.md)
-- [Class 2: Basic Terminal Usage](class_02.md)
+- [Class 1: Mastering Markdown](class-01.md)
+- [Class 2: Basic Terminal Usage](class-02.md)
