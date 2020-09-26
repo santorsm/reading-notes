@@ -26,7 +26,7 @@
 
 ### Code 201 Reading Notes
 
-- Day 01
+- [Day 01](201-class-01.md)
 - Day 02
 - Day 03
 - Day 04
