@@ -26,18 +26,18 @@
 
 ### Code 201 Reading Notes
 
-- [Day 01](201-class-01.md)
-- Day 02
-- Day 03
-- Day 04
-- Day 05
-- Day 06
-- Day 07
-- Day 08
-- Day 09
-- Day 10
-- Day 11
-- Day 12
-- Day 13
-- Day 14
-- Day 15
+- [Class 01](201-class-01.md)
+- [Class 02](201-class-02.md)
+- Class 03
+- Class 04
+- Class 05
+- Class 06
+- Class 07
+- Class 08
+- Class 09
+- Class 10
+- Class 11
+- Class 12
+- Class 13
+- Class 14
+- Class 15
