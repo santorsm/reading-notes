@@ -32,7 +32,7 @@
 - [Class 04](201-class-04.md)
 - [Class 05](201-class-05.md)
 - [Class 06](201-class-06.md)
-- Class 07
+- [Class 07](201-class-07.md)
 - Class 08
 - Class 09
 - Class 10
