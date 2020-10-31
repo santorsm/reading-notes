@@ -35,8 +35,8 @@
 - [Class 07](201-class-07.md)
 - [Class 08](201-class-08.md)
 - [Class 09](201-class-09.md)
-- Class 10
-- Class 11
+- [Class 10](201-class-10.md)
+- [Class 11](201-class-11.md)
 - Class 12
 - Class 13
 - Class 14
