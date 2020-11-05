@@ -1,6 +1,5 @@
 # reading-notes
 
-
 ## Growth mindset
 
 ### my strong belief in my capacity to learn & grow
