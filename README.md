@@ -40,4 +40,12 @@
 - [Class 13](201-class-13.md)
 - [Class 14a](201-class-14.md)
 - [Class 14b](201-class-14b.md)
-- Class 15
+
+### Code 301 - Intermediate Software Development
+
+- [Read:01 - SMACSS and Responsive Web Design](301-read-01.md)
+- Read:02 - jQuery, Events, and the DOM
+- Read:03 - Flexbox and Templating
+- Read:04 - Responsive Web Design and RegEx
+
+### Code 401 - Advanced Software Development
