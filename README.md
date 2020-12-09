@@ -44,7 +44,7 @@
 ### Code 301 - Intermediate Software Development
 
 - [Read:01 - SMACSS and Responsive Web Design](301-read-01.md)
-- [Read:02 - jQuery, Events, and the DOM]((301-read-02.md))
+- [Read:02 - jQuery, Events, and the DOM](301-read-02.md)
 - Read:03 - Flexbox and Templating
 - Read:04 - Responsive Web Design and RegEx
 
