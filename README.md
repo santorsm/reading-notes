@@ -46,6 +46,7 @@
 - [Read:01 - SMACSS and Responsive Web Design](301-read-01.md)
 - [Read:02 - jQuery, Events, and the DOM](301-read-02.md)
 - [Read:03 - Flexbox and Templating](301-read-03.md)
-- Read:04 - Responsive Web Design and RegEx
+- [Read:04 - Responsive Web Design and RegEx](301-read-04.md)
+- Read:05 - HEROKU
 
 ### Code 401 - Advanced Software Development
