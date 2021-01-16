@@ -14,14 +14,14 @@
 
 ### Code 102 Reading Notes
 
-- [Class 1: Mastering Markdown](class-01.md)
-- [Class 2: Basic Terminal Usage](class-02.md)
-- [Class 3: Revisions and the Cloud](class-03.md)
-- [Class 4: Structure Webpages with HTML](class-04.md)
-- [Class 5: Design webpages with CSS](class-05.md)
-- [Class 6: Active webpages with JavaScript](class-06.md)
-- [Class 7: Programming with JavaScript](class-07.md)
-- [Class 8: Operators and Loops](class-08.md)
+- [Class 01: Mastering Markdown](class-01.md)
+- [Class 02: Basic Terminal Usage](class-02.md)
+- [Class 03: Revisions and the Cloud](class-03.md)
+- [Class 04: Structure Webpages with HTML](class-04.md)
+- [Class 05: Design webpages with CSS](class-05.md)
+- [Class 06: Active webpages with JavaScript](class-06.md)
+- [Class 07: Programming with JavaScript](class-07.md)
+- [Class 08: Operators and Loops](class-08.md)
 
 ### Code 201 Reading Notes
 
@@ -51,5 +51,8 @@
 - [Read:06 - Node, Express, and APIs](301-read-06.md)
 - [Read:07 - APIs](301-read-07.md)
 - [Read:08 - SQL](301-read-08.md)
+- [Read 09 - Refactoring](301-read-09.md)
+[The Call Stack and Debugging](301-read-10.md)
+[EJS](301-read-11.md)
 
 ### Code 401 - Advanced Software Development
