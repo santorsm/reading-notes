@@ -43,16 +43,7 @@
 
 ### Code 301 - Intermediate Software Development
 
-- [Read:01 - SMACSS and Responsive Web Design](301-read-01.md)
-- [Read:02 - jQuery, Events, and the DOM](301-read-02.md)
-- [Read:03 - Flexbox and Templating](301-read-03.md)
-- [Read:04 - Responsive Web Design and RegEx](301-read-04.md)
-- [Read:05 - HEROKU](301-read-05.md)
-- [Read:06 - Node, Express, and APIs](301-read-06.md)
-- [Read:07 - APIs](301-read-07.md)
-- [Read:08 - SQL](301-read-08.md)
-- [Read 09 - Refactoring](301-read-09.md)
-[The Call Stack and Debugging](301-read-10.md)
-[EJS](301-read-11.md)
+- [Read: Class 01 - Introduction to React and Components](301-read-01.md)
+
 
 ### Code 401 - Advanced Software Development
