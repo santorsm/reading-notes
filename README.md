@@ -48,5 +48,6 @@
 - [Read: Class 03 - Passing Functions as Props](301-read-03.md)
 - [Read: Class 04 - Forms](301-read-04.md)
 - [Read: Class 05 - Thinking in React](301-read-05.md)
+- [Read: Class 06 - NODE.JS](301-read-06.md)
 
 ### Code 401 - Advanced Software Development
