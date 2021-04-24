@@ -51,7 +51,7 @@
 - [Read: Class 06 - NODE.JS](301-read-06.md)
 - [Read: Class 07 - REST](301-read-07.md)
 - [Read: Class 08 - REST](301-read-08.md)  
-- [Read: Class 09 - REST](301-read-09.md)  
-- [Read: Class 10 - REST](301-read-10.md)    
+- [Read: Class 09 - Functional Programming](301-read-09.md)  
+- [Read: Class 10 - REST](301-read-10.md)
 
 ### Code 401 - Advanced Software Development
