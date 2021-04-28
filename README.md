@@ -53,6 +53,6 @@
 - [Read: Class 08 - APIs](301-read-08.md)  
 - [Read: Class 09 - Functional Programming](301-read-09.md)  
 - [Read: Class 10 - The Call Stack](301-read-10.md)
-- [Read: Class 11- OAuth](301-read-11.md)
-
+- [Read: Class 11 - OAuth](301-read-11.md)
+- [Read: Class 12 - Mongo & Mongoose](301-read-12.md)
 ### Code 401 - Advanced Software Development
