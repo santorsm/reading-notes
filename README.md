@@ -55,4 +55,6 @@
 - [Read: Class 10 - The Call Stack](301-read-10.md)
 - [Read: Class 11 - OAuth](301-read-11.md)
 - [Read: Class 12 - Mongo & Mongoose](301-read-12.md)
+- [Read: Class 13 - CRUD](301-read-13.md)
+
 ### Code 401 - Advanced Software Development
