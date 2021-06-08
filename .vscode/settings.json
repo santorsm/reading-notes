@@ -1,0 +1,10 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "python.languageServer": "Pylance",
+  "html.format.extraLiners": "",
+  "[python]": {
+    "editor.defaultFormatter": null
+  },
+  "python.formatting.blackArgs": ["--line-length", "120"],
+  "python.formatting.provider": "black"
+}
