@@ -63,3 +63,4 @@
 
 - [Read: Class 01](401-read-01.md)
 - [Read: Class 02](401-read-02.md)
+- [Read: Class 03](401-read-03.md)
