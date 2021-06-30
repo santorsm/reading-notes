@@ -67,3 +67,5 @@
 - [Read: Class 04](401-read-04.md)
 - [Read: Class 05](401-read-05.md)
 - [Read: Class 06](401-read-06.md)
+- [Read: Class 07](401-read-07.md)
+- [Read: Class 08](401-read-08.md)
